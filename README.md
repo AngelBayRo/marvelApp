@@ -1,2 +1,2 @@
-# foodApp
-Applicación base de comida
+# marvelApp
+Applicación base de Marvel
